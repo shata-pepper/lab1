@@ -1,0 +1,25 @@
+.intro{
+    text-align: center;
+    color: aliceblue;
+    background-color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.bio{
+    text-align: center;
+    
+}
+.projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: burlywood;
+    color: brown;
+  
+}
+.project{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
